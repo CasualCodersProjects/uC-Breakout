@@ -4,8 +4,8 @@ But there's one thing missing from all the cheap USB Type C breakout boards on t
 This board solves that by following the basic spec and inclusing the two 5k1 pull-down resistors. It also maintains a small and light footprint to make integration easy. Finally, it breaks out all the pins on the type C 2.0 connector, which includes: VCC, GND, D+, D-, CC1, CC2, SBU1, and SBU2.
 
 ## Pinout
-![TOP](./images/TOP.png)
-![BOTTOM](./images/BOTTOM.png)
+![TOP](./Images/TOP.png)
+![BOTTOM](./Images/BOTTOM.png)
 
 ## Ordering
 Download the Gerber.zip in the root of this repository, and ipload it to your board house of choice.  
